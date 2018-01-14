@@ -6,7 +6,7 @@
         testnetlify
       </h1>
       <h2 class="subtitle">
-        Nuxt.js and a test
+        Page test
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
